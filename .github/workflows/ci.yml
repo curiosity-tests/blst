@@ -19,8 +19,6 @@ on:
         description: "racecar correlation token, echoed into the run name"
         type: string
         default: ""
-    branches:
-    - '**'
   pull_request:
     branches:
     - master
